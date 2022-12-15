@@ -1,4 +1,4 @@
-# L1-demo
+# L1-demo (lesson 01)
 
 IOS version: 16.1
 
